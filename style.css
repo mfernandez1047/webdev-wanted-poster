@@ -1,17 +1,10 @@
-div {
-    text-align: center;
+body {
+    text-align: left;
     overflow: hidden;
-    border: 2px dashed black;
-    width: 500px;
-    height: 550px;
-    background: rgb(216, 195, 195);
-}   
+    background-color: chocolate;
+}
 
-
-
-
-
-img {
-    width: 100px
-
+img{
+width: 400px;
+height: 250px
 }
